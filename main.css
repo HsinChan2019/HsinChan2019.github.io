@@ -3,9 +3,18 @@
   font-weight: bold;
   padding: 16px;
 }
-#tab-content {
+#CSDN-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
 }
-
+#QQ群-content {
+  font-size: 26px;
+  font-weight: bold;
+  padding: 10px;
+}
+#店铺-content {
+  font-size: 26px;
+  font-weight: bold;
+  padding: 10px;
+}
