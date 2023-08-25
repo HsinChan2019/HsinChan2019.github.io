@@ -2,23 +2,31 @@
   font-size: 36px;
   font-weight: bold;
   padding: 16px;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 #CSDN-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #QQ群-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #店铺-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
