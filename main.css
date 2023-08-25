@@ -5,7 +5,7 @@ body{
   font-size: 36px;
   font-weight: bold;
   padding: 16px;
-  color: #eaeaea;
+  color: #f0f0f0;
 }
 #CSDN-content {
   font-size: 26px;
@@ -15,7 +15,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #eaeaea;
+  color: #f0f0f0;
 }
 #QQ群-content {
   font-size: 26px;
@@ -25,7 +25,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #eaeaea;
+  color: #f0f0f0;
 }
 #店铺-content {
   font-size: 26px;
@@ -35,5 +35,5 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #eaeaea;
+  color: #f0f0f0;
 }
