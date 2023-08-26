@@ -179,12 +179,10 @@ a:active {
 @-moz-keyframes swing {
         0% {
                 -moz-transform: rotate(-10deg)
-        }
-  
+        }  
         50% {
                 -moz-transform: rotate(10deg)
         }
-  
         100% {
                 -moz-transform: rotate(-10deg)
         }
@@ -194,11 +192,9 @@ a:active {
         0% {
                 -webkit-transform: rotate(-10deg)
         }
-  
         50% {
                 -webkit-transform: rotate(10deg)
         }
-  
         100% {
                 -webkit-transform: rotate(-10deg)
         }
