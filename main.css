@@ -31,27 +31,6 @@ a:active {
   color: #EAEAEA;
 }
 
-#CSDN-content {
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#QQ群-content {
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center; 
-}
-
-#店铺-content {
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center; 
-}
-
 .deng-box {
         position: fixed;
         top: -40px;
