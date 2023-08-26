@@ -17,29 +17,20 @@ body{
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: #eaeaea;
+  margin-left: 10px;
 }
 #QQ群-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: #eaeaea;
+  margin-left: 10px;
 }
 #店铺-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
-  text-align: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: #eaeaea; 
+  margin-left: 10px;
 }
