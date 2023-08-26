@@ -2,7 +2,6 @@
     0% {
         transform: translatey(0)
     }
-
     to {
         transform: translatey(-700px) rotate(600deg)
     }
@@ -11,7 +10,6 @@
     .container h1 {
         font-size: 60px
     }
-
     form button,
     form input {
         width: 500px
