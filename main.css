@@ -9,7 +9,7 @@ a {
   font-size: 26px; 
 }
 a:active {
-  color: #FFFFFF; 
+  color: #000000; 
 }
 #main-content {
   font-size: 36px;
@@ -29,9 +29,10 @@ a:active {
   padding: 10px;
   color: #EAEAEA;
   margin-left: 10px;
-  text-align: left;
-  margin: 0 auto; 
-  width: fit-content; 
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 #QQ群-content {
   font-size: 26px;
@@ -39,9 +40,10 @@ a:active {
   padding: 10px;
   color: #EAEAEA;
   margin-left: 10px;
-  text-align: left;
-  margin: 0 auto; 
-  width: fit-content; 
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
 }
 #店铺-content {
   font-size: 26px;
@@ -49,7 +51,8 @@ a:active {
   padding: 10px;
   color: #EAEAEA; 
   margin-left: 10px;
-  text-align: left;
-  margin: 0 auto; 
-  width: fit-content; 
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
 }
