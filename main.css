@@ -1,5 +1,10 @@
-body{
-  background-color: #282C34;
+@keyframes bgAnimation {
+  0% { background-color: #ff6f00; }
+  50% { background-color: #ffa000; }
+  100% { background-color: #ff6f00; }
+}
+body {
+  animation: bgAnimation 5s infinite;
 }
 h1 {
   font-size: 26px; 
