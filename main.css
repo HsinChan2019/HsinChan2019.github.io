@@ -29,6 +29,10 @@ a:active {
   font-weight: bold;
   padding: 10px;
   color: #EAEAEA;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .deng-box {
