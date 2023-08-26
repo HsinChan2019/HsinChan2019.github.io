@@ -1,49 +1,55 @@
 body{
   background-color: #282C34;
 }
+
 h1 {
   color: #EAEAEA;   
   font-size: 26px; 
 }
+
 a {
   color: #008B45; 
   font-size: 26px; 
 }
+
 a:active {
   color: #000000; 
 }
+
 #main-content {
   font-size: 36px;
   font-weight: bold;
   padding: 16px;
   color: #EAEAEA;
 }
+
 #info-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
   color: #EAEAEA;
 }
+
 #CSDN-content {
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 #QQ群-content {
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center; 
 }
+
 #店铺-content {
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center; 
 }
-
-
 
 .deng-box {
         position: fixed;
@@ -217,18 +223,4 @@ a:active {
                 -webkit-transform: rotate(-10deg)
         }
 }
-
-.meihua {
-	position: fixed;
-	top: 0;
-	right: 0;
-	z-index: 999;
-	width: 350px;
-	height: 231px;
-	pointer-events: none;
-	background: url('https://images.cnblogs.com/cnblogs_com/yjlaugus/1103049/o_2001231137081kBpid.png');
-}
-
-
-
 
