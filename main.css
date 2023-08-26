@@ -5,29 +5,29 @@ h1 {
   font-size: 26px; 
 }
 a {
-  color: #eaeaea; 
+  color: #008B45; 
   font-size: 26px; 
 }
 a:active {
-  color: #d2691e; 
+  color: #FFFFFF; 
 }
 #main-content {
   font-size: 36px;
   font-weight: bold;
   padding: 16px;
-  color: #eaeaea;
+  color: #EAEAEA;
 }
 #info-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
-  color: #eaeaea;
+  color: #EAEAEA;
 }
 #CSDN-content {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
-  color: #eaeaea;
+  color: #EAEAEA;
   margin-left: 10px;
   text-align: left;
   margin: 0 auto; 
@@ -37,7 +37,7 @@ a:active {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
-  color: #eaeaea;
+  color: #EAEAEA;
   margin-left: 10px;
   text-align: left;
   margin: 0 auto; 
@@ -47,7 +47,7 @@ a:active {
   font-size: 26px;
   font-weight: bold;
   padding: 10px;
-  color: #eaeaea; 
+  color: #EAEAEA; 
   margin-left: 10px;
   text-align: left;
   margin: 0 auto; 
