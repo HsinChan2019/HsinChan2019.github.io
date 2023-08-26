@@ -1,10 +1,24 @@
-@keyframes bgAnimation {
-  0% { background-color: #ff6f00; }
-  50% { background-color: #ffa000; }
-  100% { background-color: #ff6f00; }
+@keyframes square {
+    0% {
+        transform: translatey(0)
+    }
+
+    to {
+        transform: translatey(-700px) rotate(600deg)
+    }
 }
-body {
-  animation: bgAnimation 5s infinite;
+@media (max-width: 500px) {
+    .container h1 {
+        font-size: 60px
+    }
+
+    form button,
+    form input {
+        width: 500px
+    }
+}
+body{
+  background-color: #282C34;
 }
 h1 {
   font-size: 26px; 
@@ -29,33 +43,18 @@ a:active {
   color: #EAEAEA;
 }
 #CSDN-content {
-  font-size: 26px;
-  font-weight: bold;
-  padding: 10px;
-  color: #EAEAEA;
-  margin-left: 10px;
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 #QQ群-content {
-  font-size: 26px;
-  font-weight: bold;
-  padding: 10px;
-  color: #EAEAEA;
-  margin-left: 10px;
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center; 
 }
 #店铺-content {
-  font-size: 26px;
-  font-weight: bold;
-  padding: 10px;
-  color: #EAEAEA; 
-  margin-left: 10px;
   text-align: center;
   display: flex;
   justify-content: center;
