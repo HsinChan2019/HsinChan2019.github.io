@@ -7,20 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="index.js"></script>
+    <!-- 樱花特效 -->
     <script>
-    for (let i=0; i < 50; i++) {
-        setTimeout(()=> {
-            const sakura=document.createElement('div');
-            sakura.className='sakura';
-            sakura.style.left=Math.random() * 100 + 'vw';
-            sakura.style.animationDelay=Math.random() * 5 + 's';
-            sakura.style.width=Math.random() * 20 + 5 + 'px';
-            document.body.appendChild(sakura);
-        }, Math.random() * 5000);
-    }
+        for (let i=0; i < 50; i++) {
+            setTimeout(()=> {
+                const sakura=document.createElement('div');
+                sakura.className='sakura';
+                sakura.style.left=Math.random() * 100 + 'vw';
+                sakura.style.animationDelay=Math.random() * 5 + 's';
+                sakura.style.width=Math.random() * 20 + 5 + 'px';
+                document.body.appendChild(sakura);
+            }, Math.random() * 5000);
+        }
   </script>
 </head>
 <body>
+     <!-- 灯笼特效 -->
     <div class="deng-box">
         <div class="deng">
                 <div class="xian"></div>
@@ -39,10 +41,13 @@
                 <div class="shui shui-a"><div class="shui-c"></div><div class="shui-b"></div></div>
         </div>
     </div>
+    <!-- 主题 -->
     <div id="main-content">
     </div>
+    <!-- 二级标题 -->
     <div id="info-content">
     </div>
+    <!-- 展示框 -->
     <div class="box-content">
         <div id="CSDN-content">
         </div>
