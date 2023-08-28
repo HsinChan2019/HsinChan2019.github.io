@@ -1,11 +1,11 @@
-
+/* 背景颜色、格式 */
 body{
   background-color: #282C34;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
-
+/* 樱花特效 */
 .sakura {
     width: 10px;
     height: 10px;
@@ -26,7 +26,7 @@ body{
         opacity: 0;
     }
 }
-
+/* 文字链接：格式、颜色、大小 */
 h1 {
   color: #EAEAEA;   
   font-size: 26px; 
@@ -40,14 +40,14 @@ a {
 a:active {
   color: #000000; 
 }
-
+/* 主题字体 */
 #main-content {
   font-size: 36px;
   font-weight: bold;
   padding: 16px;
   color: #EAEAEA;
 }
-
+/* 二级字体 */
 #info-content {
   font-size: 26px;
   font-weight: bold;
@@ -58,7 +58,7 @@ a:active {
   justify-content: center;
   align-items: center;
 }
-
+/* 灯笼 */
 .box-content {
   display: flex;
   flex-direction: column;
@@ -241,4 +241,5 @@ a:active {
                 -webkit-transform: rotate(-10deg)
         }
 }
+/* END */
 
