@@ -7,6 +7,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="index.js"></script>
+    <script>
+    for (let i=0; i < 50; i++) {
+        setTimeout(()=> {
+            const sakura=document.createElement('div');
+            sakura.className='sakura';
+            sakura.style.left=Math.random() * 100 + 'vw';
+            sakura.style.animationDelay=Math.random() * 5 + 's';
+            sakura.style.width=Math.random() * 20 + 5 + 'px';
+            document.body.appendChild(sakura);
+        }, Math.random() * 5000);
+    }
+  </script>
 </head>
 <body>
     <div class="deng-box">
